@@ -1,0 +1,377 @@
+
+section, figure, nav {
+    display: block;
+}
+body{
+    margin: 0px;
+}
+/*header*/
+#hlsec {
+    color: #ffff;
+    font-family: monospace;
+    font-size: 29px;
+    height: 226px;
+    line-height: 1.6em;
+    padding: 350px 60px 100px 60px;
+    float: left;
+    width: 403px;
+    
+    background-color: rgba(187, 4, 4, 0.966);}
+#hanc{
+    width: 40px;
+    padding: 10px 25px 10px 25px;
+    border-radius: 3px;
+    margin: 30px 15px 15px 15px;
+    background-color: rgb(223, 238, 11);
+    color:rgb(14, 11, 11);
+    font-family: cursive;
+    font-size: 20px;}
+#hanc:hover{
+    color: rgb(71, 79, 170);
+}
+
+
+.hrsec {
+    float: left;
+    width: 810px;
+    height: 676px;
+    background-image: url("images/backimg.png");
+    }
+nav {
+    position: absolute;
+    border-radius: 5px;
+    left: 235px;
+    width: 800px;
+    background-color: #ffff;
+    margin: 0px;
+    height: 100px;
+}
+.normal{
+    height: 676px;
+    width: 900px;}
+.logo{
+    position: absolute;
+    left: 16px;
+    top: 8px;}
+#hnav{
+    margin-left: 230px;
+    margin-top: 30px;
+    font-size: 18px;
+    font-family: Georgia, 'Times New Roman', Times, serif;}
+
+li{
+    display: inline;
+    margin-left: 45px;}
+li:hover{
+    color: rgb(76, 57, 250);}
+li:active{
+    color: rgb(51, 44, 44);}
+
+#hbook{
+    position: absolute;
+    left: 1072px;
+    top: 16px;
+    background-color: rgba(187, 4, 4, 0.966);
+    width: 85px;
+    height: 75px;
+    font-size: 18px;
+    font-family: monospace;
+    text-align: center;}
+#hpr{
+    color: #ffff;
+    font-size: 19px;
+    font-family: 'Times New Roman', Times, serif;
+}
+    
+#hsearch{
+    position: absolute;
+    left: 400px;
+    top: 146px;}
+#srbox{
+    width: 350px;
+    height: 38px;
+    margin-right: 0px;}
+#hsubmit{
+    width: 135px;
+    height: 37px;
+    background-color: rgba(187, 4, 4, 0.966);
+    color: #ffff;
+    font-family: monospace;
+    font-size: 18px;
+    border: 1px solid rgba(187, 4, 4, 0.966);
+    margin-left: 0px;}
+
+#hpwlcm{
+    position: absolute;
+    left: 735px;
+    top: 140px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #ffff;
+    font-size: 65px;
+}
+#hwlcm{
+    position: absolute;
+    left: 680px;
+    font-size: 85px;
+    top: 240px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border: 1px solid #ffff;
+    padding: 10px;}
+
+/*header*/
+
+#disappear{
+    color: #ffff;
+    display: inline;}
+/* about section*/
+#sabt {
+    margin-top: 15px;}
+.sfig{
+    float: right;
+    width: 600px;}
+.bvg{
+    width: 640px;
+    height: 380px;}
+.hdabt{
+    text-align: center;
+    font-family: cursive;
+    font-size: 33px;
+    color: rgba(0, 0, 0, 0.911);}
+
+#pabt{
+    font-family: cursive;
+    color: rgba(20, 19, 19, 0.863);
+    padding: 40px 100px 20px 100px;
+    font-size: 21px;
+    line-height: 1.6em;
+    margin-bottom: 30px;}
+.srd{
+    font-size: 26px;
+    color: rgba(231, 15, 15, 0.884);}
+
+.sanc{
+    width: 150px;
+    padding: 10px 25px 10px 25px;
+    border-radius: 3px;
+    margin: 10px 30px 15px 100px;
+    background-color: rgb(223, 238, 11);
+    color:rgb(14, 11, 11);
+    font-family: cursive;
+    font-size: 20px;}
+.sanc:hover{
+    color: rgb(71, 79, 170);}
+
+/*about section*/
+
+/*rooms section*/
+.drooms{
+    margin-top: 65px;
+    overflow: auto;
+    width: 100%;}
+
+.rmsimg {
+    width: 530px; 
+    height: 430px;}
+#roomfig {
+    float: left;
+    width: 250px;
+    margin-left: 0px;}
+#prooms {
+    float: right;
+    width: 550px;
+    height: 330px;
+    border: 1px solid rgb(14, 13, 13);
+    font-family: cursive;
+    color: rgba(20, 19, 19, 0.863);
+    padding: 35px 150px 20px 50px;
+    font-size: 21px;
+    line-height: 1.6em;
+    background-color: rgb(255, 255, 255);
+    margin-top: 45px;
+    margin-right: 35px;}
+#roomspank {
+    text-align: center;}
+p#roomsspan{
+    font-size: 20px;}
+#p400 {
+    font-size: 30px;
+    color: rgb(243, 18, 18);}
+#arooms{
+    width: 150px;
+    padding: 10px 25px 10px 25px;
+    border-radius: 3px;
+    margin: 10px 100px 15px 175px;
+    background-color: rgb(223, 238, 11);
+    color:rgb(14, 11, 11);
+    font-family: cursive;
+    font-size: 20px;}
+
+#arooms:hover{
+    color: rgb(71, 79, 170);}
+/*rooms section*/
+
+/*gallery*/
+.drooms{
+    margin-left: 35px;
+    margin-right: 70px;}
+
+.fltglry{
+    float: left;
+    width: 350px;
+   }
+
+.glryfig{
+    width: 350px;
+    height: 310px;}
+
+.glrycapt{
+    margin: 20px;
+    text-align: center;
+    font-family: cursive;
+    font-size: 18px;}
+#bgimg{
+    width: 350px;
+    height: 690px;
+}
+/*gallery*/
+
+/*clients review*/
+
+#rvwdiv{
+    margin: 75px auto;
+    width: 800px;
+    overflow: auto;
+    font-family: cursive;
+    border: 1px solid rgb(187, 183, 183);}
+
+.rvw{
+    float: left;
+    width: 180px;}
+.rvwimg{
+    width: 130px;
+    height: 130px;
+    border-radius: 100%;}
+
+.review{
+    clear: both;}
+hr{
+    margin-top: 30px;}
+.rvwcapt{
+    margin-left: 18px;
+    color: rgb(236, 84, 13);}
+.rvwhad{
+    color: rgb(238, 17, 17);
+}
+
+/*clients review/
+
+/* second last*/
+
+#slh2{
+    font-family: cursive;
+    color: rgb(14, 11, 11);
+    text-align: center;
+    font-size: 35px;   
+}
+
+#slfig{
+    float: left;
+    width: 800px;
+    margin-top: 20px;
+    margin-left: 0px;
+}
+.lsimg{
+    width: 680px;
+    height: 550px;}
+
+.slp{
+    background-image: url(../images/shape.png);
+    background-size: 10% 10%;
+    padding: 100px;
+    font-size: 50px;
+    font-family: cursive;
+    color: rgb(14, 11, 11);
+}
+
+#fieldset{
+    width: 440px;
+    padding: 30px;
+    position: absolute;
+    left: 220px;
+    top: 4105px;
+    background-color: rgba(228, 18, 18, 0.712);
+    border: 1px solid rgb(3, 3, 3);
+    
+}
+.namet{
+    color:  rgba(10, 9, 9, 0.651);
+    font-family: cursive;
+    display: block;
+    width: 450px;
+    height: 40px; 
+    font-size: 18px;
+    margin: 20px; 
+    border: 1px solid rgba(15, 15, 15, 0.534); }
+
+.sltext{
+    margin-left: 20px;
+    width: 450px;
+    height: 85px;
+    font-family: cursive;
+    font-size: 18px;
+    color:  rgba(10, 9, 9, 0.651);}
+#slsb{
+    width: 132px;
+    height: 42px;
+    text-align: center;
+    border-radius: 3px;
+    margin-left: 180px;
+    margin-top: 20px;
+    background-color: rgb(223, 238, 11);
+    color:rgb(0, 0, 0);
+    font-family: cursive;
+    font-size: 15px;
+    border: 1px solid rgba(7, 6, 6, 0.418);}
+
+/*footer*/
+footer{
+    height: 350px;
+    background-image: url(../images/pic8.jpg);
+    background-size: cover;
+}
+.ftp1{
+    float: left;
+    width: 390px;
+    height: 350px;
+    padding: 0px;
+    background-color: rgba(27, 32, 29, 0.897);
+
+}
+.ftul{
+     list-style-type: none;
+}
+.fth3{
+    text-align: center;
+    color: #ffff;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 30px; 
+    font-weight: 300;
+    line-height: 2em;
+}
+.fli{
+   display: block;
+   color: #ffff;
+   font-family: Georgia, 'Times New Roman', Times, serif;
+   margin-top: 16px;
+   font-size: 20px;
+   margin-left: 80px;}
+
+.fli1{
+   color: #ffff;
+   font-family: Georgia, 'Times New Roman', Times, serif;
+   margin-top: 16px;
+   font-size: 20px;
+   margin-left: 148px;
+   line-height: 1.6em;
+
+}
